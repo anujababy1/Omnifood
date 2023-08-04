@@ -4,11 +4,10 @@ Omnifood is a modern and responsive web app designed to provide an excellent use
 
 ## https://omifood-ui.netlify.app
 
-```sh
 
-Responsive layout: The web app adjusts gracefully to various screen sizes, including desktops, tablets, and smartphones, ensuring a seamless experience for users on any device.
+-Responsive layout: The web app adjusts gracefully to various screen sizes, including desktops, tablets, and smartphones, ensuring a seamless experience for users on any device.
 
-CSS Grid and Flexbox: Leveraging the power of CSS Grid and Flexbox, the app's layout is designed to be both aesthetically pleasing and structurally efficient.
+-CSS Grid and Flexbox: Leveraging the power of CSS Grid and Flexbox, the app's layout is designed to be both aesthetically pleasing and structurally efficient.
 Interactive elements: JavaScript is used to add interactivity to the web app, making it more engaging and user-friendly. This includes interactive navigation, dropdowns, and animations.
 
 Hero Section: A visually stunning hero section greets users with a captivating headline and a clear call-to-action to encourage sign-ups.
@@ -24,4 +23,4 @@ Pricing Plans: Displayed using a flexible grid layout, the pricing section prese
 Contact Form: A simple and user-friendly contact form allows potential customers to get in touch easily.
 
 Footer: The footer contains essential links, contact information, and social media icons.
-```
+
