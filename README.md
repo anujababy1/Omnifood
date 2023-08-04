@@ -22,5 +22,5 @@ Interactive elements: JavaScript is used to add interactivity to the web app, ma
 
 - Contact Form: A simple and user-friendly contact form allows potential customers to get in touch easily.
 
-Footer: The footer contains essential links, contact information, and social media icons.
+- Footer: The footer contains essential links, contact information, and social media icons.
 
